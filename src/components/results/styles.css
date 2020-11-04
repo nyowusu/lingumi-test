@@ -1,0 +1,19 @@
+.results-container {
+  display: flex;
+  justify-content: center;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1400px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 87vh;
+}
+
+@media (min-width: 1200px) {
+  .results {
+    min-width: 1200px;
+  }
+}
