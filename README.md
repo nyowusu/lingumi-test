@@ -1,6 +1,6 @@
 ## PART 1:
 
-I used the create react app to spin the project.
+I used create react app to spin the project.
 
 Besides the libraries and their dependencies the rest is my code.
 
